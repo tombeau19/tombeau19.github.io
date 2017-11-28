@@ -1,7 +1,7 @@
 body {
     padding: 0px;
     font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-    color: #3e9adf;
+    color: #344356;
     background-color: #ECEEEF;
 }
   
@@ -36,20 +36,10 @@ body {
 	transition: transform 0.5s cubic-bezier(.55, 0, .1, 1);
 }
 
-
-/* Little hover effect */
-
-/* .strikethrough:hover {
-	color: rgba(200,0,0,1);
-	background: rgba(255, 189, 182, 0.3);
-} */
-
 .strikethrough:hover:after {
 	transform: scaleX(0);
 	transform-origin: center right;
 }
-
-/* Keyframes for initial animation */
 
 @keyframes strikethrough {
 	from {
