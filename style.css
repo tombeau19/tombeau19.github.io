@@ -30,7 +30,7 @@ body {
 }
 
 
-.third {
+.third, .fifth {
 	background-color: rgb(207, 207, 207);
 	-webkit-background-size: cover;
     -moz-background-size: cover;
