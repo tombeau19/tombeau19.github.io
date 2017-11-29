@@ -4,6 +4,10 @@ body {
     color: #344356;
     background-color: #ECEEEF;
 }
+
+.contact {
+	font-size: 25px;
+}
   
 .landing { 
     background: url('mountainbackground.jpeg') no-repeat center center fixed; 
@@ -24,6 +28,7 @@ body {
     height: 100vh;
     width: 100vw;
 }
+
 
 .third {
 	background-color: rgb(207, 207, 207);
