@@ -56,6 +56,23 @@ li {
 	padding: 5px;
 }
 
+.apple {
+	display: flex;
+	justify-content: flex-end;
+	font-size: 25px;
+	margin: 5px;
+}
+
+.pear {
+	padding-left: 50px;
+	padding-top: 10px;
+	padding-right: 5px;
+}
+
+.pear:hover{
+	text-shadow: 1px 1px 2px #286EB5;
+}
+
 #home {
 	font-size: 55px;
 }
