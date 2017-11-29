@@ -15,6 +15,42 @@ body {
     width: 100vw;
 }
 
+.second {
+	background-color: #ECEEEF;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.third {
+	background-color: rgb(207, 207, 207);
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+p {
+	font-size: 21px;
+}
+
+.crud {
+	color: #3e9adf;
+}
+
+li {
+	font-size: 21px;
+}
+
+.margin {
+	padding: 5px;
+}
+
 .strikethrough {
     color: #3e9adf;
 	display: inline-block;

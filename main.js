@@ -1,7 +1,5 @@
-$(document).ready(function () {
+$(document).ready(() => {
 
-    $('.intro').on('hover', function () {
-        $(this).addClass('after')
-    })
+    $('.scrollspy').scrollSpy();
 
-})
+});
