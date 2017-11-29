@@ -56,6 +56,10 @@ li {
 	padding: 5px;
 }
 
+#home {
+	font-size: 55px;
+}
+
 .strikethrough {
     color: #3e9adf;
 	display: inline-block;
