@@ -128,9 +128,15 @@ li {
 
 }
 
-@media only screen and (max-width: 1000){
+@media only screen and (max-width: 500px){
 
+	.nav-bar {
+		font-size: 15px;
+	}
 
+	.intro {
+		font-size: 15px;
+	}
 	
 }
 
